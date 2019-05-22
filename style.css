@@ -77,6 +77,8 @@ ul {
   color: white;
   padding: 15px 20px;
   border-radius: 4px;
+  display: inline-block;
+  margin: auto;
 }
 
 .btn-blue:hover {
